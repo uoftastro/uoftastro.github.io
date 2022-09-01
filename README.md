@@ -1,3 +1,1 @@
-# uoftastro.github.io
-# uoftastro.github.io
-# uoftastro.github.io
+# This is a repo of information for the UofT Astro units
