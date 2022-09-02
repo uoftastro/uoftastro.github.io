@@ -4,6 +4,12 @@ Note that this is a living document and we are working to get all the informatio
 
 ## Information relevant for all
 
+### How do I print?
+
+1. Whether you print, photocopy or scan, you need your user codes. If you forget or do not have them, please contact Stipe to get yours. Each user has different codes for different purposes.
+2.     Your codes can be used on either MP Ricoh or AB Ricoh unit.
+3.     For printing, please follow the instruction on [DADDAA](https://www.astro.utoronto.ca/internal/computing/printer-setup/) internal page
+4.     If you are not connected to the wired network, when adding printer, your computer won’t be able to automatically discover the appropriate printer. In this case, you need to supply the IP for it: MP Ricoh (128.100.88.13), AB Ricoh (128.100.89.228).
 ### Room bookings
 
 I need to book a room for a meeting/office hours, what do I do 
