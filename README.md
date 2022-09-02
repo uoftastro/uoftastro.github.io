@@ -19,7 +19,7 @@
   
   U of T runs a work study program to hire undergraduates over the Fall/Winter and Summer semesters. Students must be enrolled in courses over the work study period.  Project descriptions are solicited in June for Fall/Winter semesters, and in Feb/March for Summer semesters. The application is open, so this program is not suited to hiring a specific student. Selected projects receive funding for 70% of the student pay, with the supervisor contributing the rest. 
   
-  More information on project descriptions and deadlines can be found here: https://clnx.utoronto.ca/staff-faculty/wspublic.htm
+  More information on project descriptions and deadlines can be found on the [work study page](https://clnx.utoronto.ca/staff-faculty/wspublic.htm).
 * **Casual employment**
   
   Casual employment is not encouraged as there are often issues with unionisation or visa requirements etc. Contact Department Admin or the faculty slack channel if you have specific questions.
@@ -49,9 +49,9 @@ There is no formal way to set vacation dates, usually just inform your superviso
 
 ### I need to book a room for a meeting/office hours, what do I do?
 
-To book a room in AB (e.g. AB88), sign in to http://www.astro.utoronto.ca/internal/bookings-calendar/ and book from there. Contact Department management for the booking codes
+To book a room in AB (e.g. AB88), sign in to [the room booking calendar](http://www.astro.utoronto.ca/internal/bookings-calendar/) and book from there. Contact Department management for the booking codes
 
-To book a general room/lecture hall on campus, use https://lsm.utoronto.ca/webapp/f?p=220
+To book a general room/lecture hall on campus, use the [LSM](https://lsm.utoronto.ca/webapp/f?p=220).
 
 ### Which scholarships can I apply to and when?
 There are generally two major deadlines for domestic applicants a year for applying to funding, some smaller ones may pop up throughout the year as well
@@ -62,7 +62,7 @@ There are generally two major deadlines for domestic applicants a year for apply
 Note: these scholarships are only for Canadian students, there are a couple of scholarships for international students too; the grad administrator should reach out to you when there are scholarships that you’re eligible for
 
 There are also internal scholarships within the department that you may be automatically applied for or can apply to
-[Source: http://www.astro.utoronto.ca/academics/graduate-studies/current/funding/scholarships-awards/
+[Source: [scholarships page](http://www.astro.utoronto.ca/academics/graduate-studies/current/funding/scholarships-awards/)
 Who to contact: Graduate secretary]
 
 ### What is a supervisory committee and when/how do I form one?
@@ -76,7 +76,7 @@ Your supervisory committee consists of your supervisor(s) and two other faculty 
 - Thesis qualifying exam in summer of your second year
 - Biannual supervisory committee meetings start in fall of your 3rd year
 
-[Source: https://www.astro.utoronto.ca/~menou/AST1501/secondtimeline.html
+[Source: [Grad student timeline](https://www.astro.utoronto.ca/~menou/AST1501/secondtimeline.html)
 Who to contact: Graduate Chair]
 
 ### How do grades work in grad school?
