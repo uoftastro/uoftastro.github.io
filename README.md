@@ -4,6 +4,15 @@ Note that this is a living document and we are working to get all the informatio
 
 ## Information relevant for all
 
+### Room bookings
+
+I need to book a room for a meeting/office hours, what do I do 
+
+To book a room in AB (e.g. AB88), sign in to [the room booking calendar](http://www.astro.utoronto.ca/internal/bookings-calendar/) and book from there. Contact Department management for the booking codes
+
+To book a general room/lecture hall on campus, use the [LSM](https://lsm.utoronto.ca/webapp/f?p=220).
+
+
 
 
 ## Information relevant to Faculty 
@@ -124,11 +133,6 @@ There is no formal way to set vacation dates, usually just inform your superviso
 [Source: Vacation policy 2022 document from Kristen.
  Who to contact: Kristen and Margaret]
 
-### I need to book a room for a meeting/office hours, what do I do?
-
-To book a room in AB (e.g. AB88), sign in to [the room booking calendar](http://www.astro.utoronto.ca/internal/bookings-calendar/) and book from there. Contact Department management for the booking codes
-
-To book a general room/lecture hall on campus, use the [LSM](https://lsm.utoronto.ca/webapp/f?p=220).
 
 ### Which scholarships can I apply to and when?
 There are generally two major deadlines for domestic applicants a year for applying to funding, some smaller ones may pop up throughout the year as well
