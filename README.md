@@ -1,5 +1,6 @@
 # Frequently Asked Questions about life in the Astro Units
 
+Note that this is a living document and we are working to get all the information pieces from our [information spreadsheet](https://docs.google.com/spreadsheets/d/1Lk79MOAMsVst5baWwMix9EznET-9qKhkuPkSzbryl7Q/edit?usp=sharing) included here shortly.
 
 ## Information relevant for all
 
