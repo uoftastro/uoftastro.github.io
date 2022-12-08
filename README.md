@@ -190,6 +190,17 @@ Prize (or independent) postdocs are ones in which you have the research freedom 
 Applications rest on both your academic history/track record and your research statement. The research statement must include your proposed independent research ideas and plan (and not just a focus on previous work). The statement should not only talk about your skills or experience, but clearly articulate why the proposed research is novel and timely.
 The academic history/track record relies largely on publications. In order to be competitive for prize fellowships, first author publications are key. There is a review of the statistics on publication numbers for prize postdoctoral positions (and other factors, including number of years since graduation) is [here](https://arxiv.org/pdf/1810.09505.pdf) It is worth bearing in mind that there is a ton of great research you can do in a postdoc that is targeted too, so while the publication numbers typical of those who win prize fellowships can be daunting, they are not the only stats of all those who have won a postdoctoral position.
 
+### How do I prepare to submit and defend my thesis?
+
+The details on how to finalize, submit and defend your thesis are on the [Graduate program page](https://www.astro.utoronto.ca/academics/graduate-studies/current/program-3/thesis/). The key takeaway from that page is that there is a **long lead time** needed before you can defend. In particular you need to hand in your thesis a full 6 weeks before your defense date, so this date (and the committee) needs to be decided on well in advance.
+
+After your defense, the examination committee will vote on the outcome, either: 
+* deny
+* (AS) As It Stands: requires that every examiner, or every examiner bar one, considers the thesis acceptable in its present form.
+* (EC) Editorial Corrections: requires that every examiner, or every examiner bar one, considers the thesis either acceptable in its present form, or with minor corrections. These should take less than a month to implement, and can be approved by the supervisor.
+* (MR) Minor Revisions: if neither of the other categories applies, then the thesis is approved with revisions, to be defined by committee members. These typically should take less than three months, but a subcommittee must be formed to judge whether the changes have been done sufficiently before approval.
+
+
 ## Information Relevant for Staff 
 
  
