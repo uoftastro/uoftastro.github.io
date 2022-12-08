@@ -4,21 +4,53 @@ Note that this is a living document and we are working to get all the informatio
 
 ## Information relevant for all
 
+### How do I find people's offices/emails/phone numbers?
+
+The main directory for the Department is hosted on the departmental [webpage](http://www.astro.utoronto.ca/people/directory-all-a-z/). To find actual office numbers, use the search page [here](http://www.astro.utoronto.ca/people/faculty-2/). 
+
+### How do I sign up for overleaf/google calendar?
+
+### How do I sign up for Slack? What are the guidelines for using Slack? 
+
+You can find a living document on the departmental Slack guidelines [here](https://docs.google.com/document/d/1M3nR25jd2krZdUHhL7xnVuarO1YcCUVMiyOdKedyPME/edit#heading=h.qhguwfu92gcf). 
+
+### How do I log into the Dunlap Wiki? 
+
+Contact the IT administration team for access to the Dunlap Wiki (e.g. Hugh Zhao). 
+
 ### How do I print?
 
 1. Whether you print, photocopy or scan, you need your user codes. If you forget or do not have them, please contact Stipe to get yours. Each user has different codes for different purposes.
 2.     Your codes can be used on either MP Ricoh or AB Ricoh unit.
 3.     For printing, please follow the instruction on [DADDAA](https://www.astro.utoronto.ca/internal/computing/printer-setup/) internal page
 4.     If you are not connected to the wired network, when adding printer, your computer won’t be able to automatically discover the appropriate printer. In this case, you need to supply the IP for it: MP Ricoh (128.100.88.13), AB Ricoh (128.100.89.228).
-### Room bookings
 
-I need to book a room for a meeting/office hours, what do I do 
+### How do I book rooms? 
+
+If you need to book a room for a meeting/office hours, you can either book rooms through the Department (AB88, AB113, etc.), or general rooms in the University. 
 
 To book a room in AB (e.g. AB88), sign in to [the room booking calendar](http://www.astro.utoronto.ca/internal/bookings-calendar/) and book from there. Contact Department management for the booking codes
 
 To book a general room/lecture hall on campus, use the [LSM](https://lsm.utoronto.ca/webapp/f?p=220).
 
+### How do I prepare a reimbursement? 
 
+There are two expense report forms: one for the department, which goes through Gautam, and one for Dunlap, which goes through Joanna. Departmental forms can be found on the [internal DAA site](https://www.astro.utoronto.ca/internal/); contact IT for the password. Dunlap forms are available on the wiki. 
+
+Tips and tricks for preparing reimbursements are given in pinned links and documents in the Slack channel \#dunlap_reimbursement. A handy graphic overview is [here](http://www.dunlap.utoronto.ca/MediaWiki/images/b/b3/Reimbursement_Process.pdf). 
+
+If you have one expense (e.g. lunch, equipment) fill out the applicable fields and send it to Gautam if the source is the department or Joanna if the source is Dunlap. For graduate students and postdoctoral fellows: if the money is coming from your supervisor, make sure you get them to sign it and indicate what account it is coming from before sending it in.
+For Dunlap people: If you have a set of expenses (e.g. for a conference), use the Dunlap form with multiple tabs for each type of expense. Make sure you include redacted credit card statements or a currency converter from the day of purchase for any expenses in other currencies. 
+If you’ve extended your trip for personal travel, look up the price of flights just for the days of the conference on the same day you book your flights and screenshot the final price (pretend to buy the conference-only flights and stop right before putting in your credit card info). Submit both your actual receipts and the screenshots. You’ll be reimbursed for the full price of your ticket as long as it isn’t more expensive than flights for just the days of the conference.
+Make sure you attach both itemized and credit card receipts! If you don’t have one of these, you’ll need to fill out the missing receipt form. The form is one of the tabs on the Dunlap expense sheet, or you can ask Gautam for the department version. 
+
+### How do I talk to someone confidentially?
+
+There is a dropbox form where you can submit comments or questions anonymously (if you choose) through the Dunlap webpage [here](http://www.dunlap.utoronto.ca/about/anonymous-feedback/). 
+
+### How do I find a mentor?
+
+The Training and Mentoring Committee and GASA organize mentoring pairings between faculty and postdocs, postdocs and graduate students, and graduate students and undergraduates. Pairings usually happen during the fall semester, or shortly before or after arrival in the Department or Institute. You may request a mentor at any time, however! Contact the Training and Mentoring Committee with requests. See details under the relevant faculty/postdoc/graduate student sections below. 
 
 
 ## Information relevant to Faculty 
@@ -75,6 +107,14 @@ There is no overhead when you apply to an external grant! (something like 50% in
 - To be added: Internal funding opportunities (from DAA or Dunlap)
   
 Apart from these grants, there are also a lot of awards for junior faculty. Usually the Award Committee chair (Scott Tremaine right now) will send out the list every few months. You look at it and see what you are eligible for. You can contact Scott (or Bob/Bryan) to nominate you. Do not hesitate to ask if you have any questions. Do not be shy to ask them to nominate you! They department want you to get award (it’s good for the department) so they will try their best to support you.
+
+### Mentorship
+
+* Faculty mentoring program
+Incoming faculty will be paired with a current faculty member within the Department or the Institute, ideally before or shortly after their arrival to U of T. This pairing is initiated by the Department Chair. 
+
+* Faculty-postdoc mentoring program
+The Training and Mentoring Committee runs a program for faculty to mentor postdoctoral fellows within the Department or the Institute. Each year in mid- to late-September, the Training and Mentoring Committee will send a request for faculty mentors. Afterwards, effort is made to pair faculty with postdocs who are outside of their immediate research groups. Faculty should meet with postdoc mentees following the guidelines given by the program [document here](https://docs.google.com/document/d/14xDHGLuXE4eQ39M3OlPZ66LqKuxeydl9d_GBgv5Ioi0/edit). Mentor/mentee pairs may change from year to year. 
 
 
 ### Graduate students:
