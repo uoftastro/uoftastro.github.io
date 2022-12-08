@@ -177,6 +177,13 @@ Committee meetings are also graded, and these are your only grades once you’re
 
 [Source: Graduate Chair]
 
+### How do I apply for a postdoc?
+The postdoctoral application process runs from mid September to late March/mid April. Postdoctoral positions are typically advertised online in places like the [AAS Job Register](https://jobregister.aas.org/) and/or [Academic Jobs Online](https://academicjobsonline.org/).
+
+Applications typically consist of a cover letter, a CV/resume and a research statement. This statement should summarize your past research and describe the new directions of research to plan to undertake in the future. Some postdoctoral positions are to work on a specific project. If that is the case, then your research statement s*hould discuss how you would work in that area*, so it is clear to the people reading the application that you are a good fit for the position. Prize postdoc applications present a more self-defined research plan (see below). Postdoctoral positions require three letters of reference. It is a good rule of thumb to keep an idea of who your letter writers are, and to make sure to diversify your research to include more than just your supervisor, so that when the time comes to write a letter you have three people who can write one for you. 
+
+When asking for letters of reference, give your letter writers plenty of advance warning, and then give them repeated reminders as the due dates approach. Do not hesitate to remind them (it is easy to get swamped in deadlines if you are writing letters for more than a few people in any job season). 
+
 ### How do I get a prize postdoc?
 Prize (or independent) postdocs are ones in which you have the research freedom to work on projects that you define, as opposed to working on a topic with a professor who advertises a specific job/focus. There is more academic freedom in a Prize postdoc, but as a result the application for prize postdocs can be more involved and the competition can be fierce. 
 
