@@ -198,8 +198,13 @@ The academic history/track record relies largely on publications. In order to be
 
 The details on how to finalize, submit and defend your thesis are on the [Graduate program page](https://www.astro.utoronto.ca/academics/graduate-studies/current/program-3/thesis/). The key takeaway from that page is that there is a **long lead time** needed before you can defend. In particular you need to hand in your thesis a full 6 weeks before your defense date, so this date (and the committee) needs to be decided on well in advance.
 
-After your defense, the examination committee will vote on the outcome, either: 
-* deny
+After your defense, the examination committee will vote on the outcome. The first vote is:
+
+Is the thesis and defense acceptable?
+a) Yes
+b) No
+
+If the answer is yes, then committee members vote to accept the thesis either: 
 * (AS) As It Stands: requires that every examiner, or every examiner bar one, considers the thesis acceptable in its present form.
 * (EC) Editorial Corrections: requires that every examiner, or every examiner bar one, considers the thesis either acceptable in its present form, or with minor corrections. These should take less than a month to implement, and can be approved by the supervisor.
 * (MR) Minor Revisions: if neither of the other categories applies, then the thesis is approved with revisions, to be defined by committee members. These typically should take less than three months, but a subcommittee must be formed to judge whether the changes have been done sufficiently before approval.
