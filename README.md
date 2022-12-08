@@ -177,6 +177,10 @@ Committee meetings are also graded, and these are your only grades once you’re
 
 [Source: Graduate Chair]
 
+### How do I study for my qualifying exam?
+
+The quals consist of literature quals taken in December of the 2nd year, and a thesis/research qualifying exam in the summer of the 2nd year. There is information on the quals [on the graduate page](https://www.astro.utoronto.ca/academics/graduate-studies/current/program-3/quals/). Make sure to also read the [expectations](http://www.astro.utoronto.ca/academics/graduate-studies/current/program-3/expectations-for-thesis-qualifiers-committee-proposal-evaluation-and-what-comes-next/) page, which gives you some insight into what to expect from the quals and the PhD.
+
 ### How do I apply for a postdoc?
 The postdoctoral application process runs from mid September to late March/mid April. Postdoctoral positions are typically advertised online in places like the [AAS Job Register](https://jobregister.aas.org/) and/or [Academic Jobs Online](https://academicjobsonline.org/).
 
