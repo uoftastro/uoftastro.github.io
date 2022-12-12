@@ -145,7 +145,7 @@ Dunlap and also the Reinhard fund covers some travel for the students. See detai
   More information on project descriptions and deadlines can be found on the [work study page](https://clnx.utoronto.ca/staff-faculty/wspublic.htm).
 * **AST 423/430**
   
-  Some undergraduate will want to work with you via AST 430: supervised study. You will need to prepare a Syllabus (very brief) and a grading scheme (since you will need give the student a grade at the end)
+  Some undergraduate will want to work with you via AST 430: supervised study. You will need to prepare a Syllabus (very brief) and a grading scheme (since you will need give the student a grade at the end).
   If a student is working with you through a course, you do not need to pay. But you should design the project to train their research skill rather than taking them as free labor.  
   UofT has a lot of undergraduates majoring in astronomy (~60 per year?) roughly half of them will need to do 4th year thesis project through AST 425 and so in Sept you might be reached by a lot of undergrad looking for projects. It’s a great opportunity to get undergraduates in this way. But be prepared that most of them have no research experience.
 * **Casual employment**
@@ -157,6 +157,57 @@ Dunlap and also the Reinhard fund covers some travel for the students. See detai
 
 
 ## Information relevant for Postdocs
+
+### SGS Guide: getting started as a postdoc 
+
+The SGS Postdoc Fellow Guide is available [here](https://postdoc.sgs.utoronto.ca/getting-started/), with information about the SGS Postdocral Fellows Office, registration, library access, work permits, health care, family care, athletics, among others. 
+
+### How do I get a Faculty mentor? Can I mentor grad students? 
+
+* **Faculty-postdoc mentoring program**
+The Training and Mentoring Committee runs a program for faculty to mentor postdoctoral fellows within the Department or the Institute. Each year in mid- to late-September, the Training and Mentoring Committee will send a request for postdocs who would like faculty mentors. Afterwards, effort is made to pair postdocs with faculty who are outside of their immediate research groups. Your mentorship meetings should follow the guidelines given by the program (document here). Mentor/mentee pairs may change from year to year. 
+Postdoc-graduate student mentoring program
+
+* **Postdoc-student mentoring program**
+Similarly, postdoctoral fellows may mentor graduate students within the Department and Institute. The timeline and guidelines are also given in the document [here](https://docs.google.com/document/d/14xDHGLuXE4eQ39M3OlPZ66LqKuxeydl9d_GBgv5Ioi0/edit). 
+
+[comment]: <> (### Where are the Research budget management resources?)
+
+
+### How do I hire an undergraduate student through SURP or AST 425, or other channels?
+[Click on this link for more information.](#hiring-undergraduate-students)
+
+### How do I get grad students?
+You may speak with Faculty members to explore about the opportunities of co-supervising grad students. 
+
+### How do I write a letter of recommendation?
+[Some useful online resources can be found here.](https://www.astrobetter.com/blog/2010/12/21/recommendation-letter-writing-round-up/)
+
+
+[comment]: <> (### How to referee a paper?)
+
+### What are the teaching opportunities? 
+Postdocs can initate a mini-course for astro graduate students (main contact: graduate program director). The GASA Course & Quals Committee usually polls GASA to guage students' interests of mini-courses. Formalisation of a mini-course requires filling in a form and preparing for a proposed syllabus. 
+
+Teaching full courses and guest lectures for undergraduate students may also be possible. 
+
+### Where to find teaching resources?
+
+For training, you may want to check out [THE500 (Teaching in Higher Education)](https://wdw.utoronto.ca/teaching-higher-education). 
+
+If you are a first-time instructor, it is a requirement to take [this course by Teaching Assistant's Training Program (TATP)](https://tatp.utoronto.ca/). 
+
+### What are the outreach opportunities? 
+There are weekly astronomy group Outreach meetings that currently runs 4:10pm on Wednesday. Anyone interested in public astronomy outreach is welcome to join. 
+
+### How do I figure out what postdoc/faculty jobs to apply for?
+Check out the UofT-Astro Slack #jobs channel, [AAS jobs register](https://jobregister.aas.org/), [AcademicJobsOnline](https://academicjobsonline.org/), and webpages such as [Nature Careers](https://www.nature.com/naturecareers). To receive job ad. through emails, you may want to subscribe to mailing lists such as the 
+[(UK) Royal Astronomical Society Job Advertisement Email List](https://ras.ac.uk/membership/RAS-job-list). If you are a [CASCA member](https://casca.ca/?page_id=61), you will somtimes receive some job ad. emails too.  
+
+### How to apply for faculty job?
+[Check out some tips by Bryan Gaensler and Sarah Maddison here](https://www.dunlap.utoronto.ca/~bgaensler/papers/gaensler_maddison_jobs_2012.pdf)
+
+
 
 ## Information relevant for Undergrads
 
