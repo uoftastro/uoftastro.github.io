@@ -187,7 +187,7 @@ You may speak with Faculty members to explore about the opportunities of co-supe
 [comment]: <> (### How to referee a paper?)
 
 ### What are the teaching opportunities? 
-Postdocs can initate a mini-course for astro graduate students (main contact: graduate program director). The GASA Course & Quals Committee usually polls GASA to guage students' interests of mini-courses. Formalisation of a mini-course requires filling in a form and preparing for a proposed syllabus. 
+Postdocs can initiate a mini-course (6-weeks instead of 12-weeks) for astro graduate students (main contact: graduate program director). The GASA Course & Quals Committee usually polls GASA to gauge students' interests of mini-courses. Formalisation of a mini-course requires filling in a form and preparing for a proposed syllabus. 
 
 Teaching full courses and guest lectures for undergraduate students may also be possible. 
 
