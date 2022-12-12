@@ -20,10 +20,10 @@ Contact the IT administration team for access to the Dunlap Wiki (e.g. Hugh Zhao
 
 ### How do I print?
 
-1. Whether you print, photocopy or scan, you need your user codes. If you forget or do not have them, please contact Stipe to get yours. Each user has different codes for different purposes.
-2.     Your codes can be used on either MP Ricoh or AB Ricoh unit.
-3.     For printing, please follow the instruction on [DADDAA](https://www.astro.utoronto.ca/internal/computing/printer-setup/) internal page
-4.     If you are not connected to the wired network, when adding printer, your computer won’t be able to automatically discover the appropriate printer. In this case, you need to supply the IP for it: MP Ricoh (128.100.88.13), AB Ricoh (128.100.89.228).
+* Whether you print, photocopy or scan, you need your user codes. If you forget or do not have them, please contact Stipe to get yours. Each user has different codes for different purposes.
+* Your codes can be used on either MP Ricoh or AB Ricoh unit.
+* For printing, please follow the instruction on [DADDAA](https://www.astro.utoronto.ca/internal/computing/printer-setup/) internal page
+* If you are not connected to the wired network, when adding printer, your computer won’t be able to automatically discover the appropriate printer. In this case, you need to supply the IP for it: MP Ricoh (128.100.88.13), AB Ricoh (128.100.89.228).
 
 ### How do I book rooms? 
 
