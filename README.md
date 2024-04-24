@@ -14,12 +14,15 @@ Sign up through [Alice Chow](mailto:chow@dunlap.utoronto.ca).
 
 #### Some notes on Deactivation of accounts
 **Zoom & Overleaf**
+
 Users who have Zoom Pro accounts or Overleaf accounts are entitled to use the accounts for 3 more months after their Dunlap memberships expire. The system administrators will initiate the inactivation of account process after that. It is advised that users should arrange the file transfer before the end of the three-month grace period. Exceptions can be made if there are any special needs.  Users can submit the request with justifications directly to the Business and Financial Manager for extension of their access for 3 more months.
 
 **Astro @ UofT Slack Workspace**
+
 Users who have Slack accounts on Astro @ UofT are entitled to use the accounts for 3 more months after leaving the University. The system administrators will initiate the inactivation of account process after that.  It is advised that users should arrange the file transfer before the end of the three-month grace period.  Exceptions can be made if there are any special needs.  Users can submit the request with justifications directly to the Business and Financial Manager for extension of their access for 3 more months.
 
 **DAA/Dunlap Event and Dunlap Travel Calendars**
+
 Users who have access to the Calendars would be able to access these calendars for 3 more months after leaving the University.  The system administrators will initiate the removal of access after that. Exceptions can be made if there are any special needs.  Users can submit the request with justifications directly to the Business and Financial Manager for extension of their access for 3 more months.
 
 ### How do I sign up for Slack? What are the guidelines for using Slack? 
