@@ -3,6 +3,31 @@
 Note that this is a living document and we are working to get all the information pieces from our [information spreadsheet](https://docs.google.com/spreadsheets/d/1Lk79MOAMsVst5baWwMix9EznET-9qKhkuPkSzbryl7Q/edit?usp=sharing) included here shortly.
 
 ## Information relevant for all
+There are three main astronomy units within the Toronto astrophysics landscape, the department, the Dunlap Institute and CITA. 
+
+## The David A. Dunlap Department for Astronomy and Astrophysics (DADDAA)
+The Department of Astronomy and Astrophysics is the host institute where all astronomy students are located (note that some CITA students have Physics as their home institution). DADDAA is actively engaged in a wide range of observational and theoretical research and offers Master of Science and Doctor of Philosophy degrees, as well as a wide range of graduate and undergraduate courses. Together with our CITA and Dunlap, there are close to 100 faculty members across the units and many post-doctoral fellows and graduate students, that make up a lively and diverse atmosphere in research, teaching and outreach. 
+
+The calendar of events within DADDAA is on the astro [website](https://www.astro.utoronto.ca/events/next-u-of-t-astro-colloquium/).
+
+## Dunlap Institute for Astronomy and Astrophysics 
+The Dunlap Institute for Astronomy and Astrophysics at the University of Toronto is an astronomical research centre located within the Astronomy Building (AB). The institute was founded in 2008 with the help of endowed gifts to the University of Toronto from David M. Dunlap and J. Moffat Dunlap, using the proceeds from the sale of the David Dunlap Observatory. The focus of the Dunlap Institude is to design and build innovative technology like telescopes, spectrographs, and supercomputers to pursue ground-breaking astronomical research. There is also a focus on providing world-class training to students, and a mandate for science and astronomy outreach to engage the public across the Greater Toronto Area and beyond.
+
+More information on the Dunlap Institute is available on the [calendar](https://www.dunlap.utoronto.ca/).
+
+## Canadian Institute for Theoretical Astrophysics (CITA)
+
+The University of Toronto hosts the Canadian Institute for Theoretical Astrophysics (CITA) on the 13th, 14th, and 15th floors of the McLennan Physical Laboratories (MP), just next door to the AB. More broadly, the CITA Inc network connects faculty, postdocs, and students working in theoretical astrophysics across Canada and internationally.
+
+CITA is a nationally supported research center for studies in theoretical astrophysics including the origin and evolution of the universe, and the many other phenomena revealed by modern astronomy. CITA’s primary missions are to foster interaction within the Canadian astrophysics community and to serve as an international centre of excellence for theoretical studies in astrophysics. CITA supports both National Postdoctoral Fellowships and Postdoctoral and Research Associate Fellowships, and CITA faculty advise students from both the Physics and Astronomy departments at UofT. CITA also fosters interactions through workshops and a vibrant visitor program. 
+
+You can find more information about CITA on their [website](https://www.cita.utoronto.ca/).
+
+In particular, the [CITA Events Calendar](https://www.cita.utoronto.ca/events/event-calendar/) has up-to-date information about seminar speakers, group meetings, arXiv coffee discussions, and other activities. Everyone is welcome! Many CITA events are announced on Dunlap mailing lists, but if you would also like to subscribe to CITA mailing lists, please contact CITA computing support (requests@cita.utoronto.ca).
+
+A list of CITA Inc members is available [here](https://www.cita.utoronto.ca/people/cita-inc-members/). Faculty members interested in joining CITA Inc should contact the CITA Director (director@cita.utoronto.ca).
+
+For information on how CITA can support a meeting or workshop you're organizing, see the [application procedure](https://www.cita.utoronto.ca/opportunities/national-fellows-programs/support-scientific-meetings/). CITA supports meetings of all sizes, from small workshops to major conferences.
 
 ### How do I find people's offices/emails/phone numbers?
 
