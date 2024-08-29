@@ -152,9 +152,15 @@ There is no overhead when you apply to an external grant! (something like 50% in
 - Connaught Fund New Research -- internal UofT grant, 20k. Not a lot the application is not very long (and you can reuse some of your NSERC DG proposal.
 -  Ontario Early Researcher Awards -- 150k including matching from the department (NOI due September 23, 2023). This funding requires that you already have Tri-council (e.g. NSERC) funding. Details [here](https://www.ontario.ca/page/early-researcher-awards)
 -  CIFAR Azrieli Global Scholar Program -- 100k. It has many disciplines. Some of astronomy faculty should be eligible for [Gravity & the Extreme Universe](https://cifar.ca/research-programs/gravity-extreme-universe/)
+-  The [Canada Research Chairs]([https://www.chairs-chaires.gc.ca/home-accueil-eng.aspx](https://www.chairs-chaires.gc.ca/program-programme/index-eng.aspx) program is administered through the university, so you will need to keep an eye out for CRC opportunities
 - To be added: Internal funding opportunities (from DAA or Dunlap)
+- [JELF](https://research.utoronto.ca/funding-opportunities/db/john-r-evans-leaders-fund) is a fund specifically for people starting up a lab/for instrumentation.  
   
-Apart from these grants, there are also a lot of awards for junior faculty. Usually the Award Committee chair (Scott Tremaine right now) will send out the list every few months. You look at it and see what you are eligible for. You can contact Scott (or Bob/Bryan) to nominate you. Do not hesitate to ask if you have any questions. Do not be shy to ask them to nominate you! They department want you to get award (it’s good for the department) so they will try their best to support you.
+Apart from these grants, there are also a lot of awards for junior faculty. Usually the Award Committee chair will send out the list every few months. You look at it and see what you are eligible for. You can contact the Award Committee chair (or your department/institute chair) to nominate you. **Do not hesitate to ask if you have any questions. Do not be shy to ask them to nominate you!** They department want you to get award (it’s good for the department) so they will try their best to support you.
+
+### Performance through the ranks (PTR) -- what is it and what do I need to do?
+
+Once a year you fill out a form stating what you have done (students supervised, courses, taught/developed, research performed, other activities etc.) and then you are evaluated for your PTR. The forms are due near the end of April and need to follow a specific Faculty of Arts and Science format. You can update your previous CV from last year. If you are new - reach out to your faculty mentor to discuss this! The guidelines for PTR change with some frequency (you should receive an email from your department/institute manager with the procedures for how PTR is evaluated).
 
 ### Mentorship
 
