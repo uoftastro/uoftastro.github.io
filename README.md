@@ -92,6 +92,10 @@ Make sure you attach both itemized and credit card receipts! If you don’t have
 
 There is a dropbox form where you can submit comments or questions anonymously (if you choose) through the Dunlap webpage [here](http://www.dunlap.utoronto.ca/about/anonymous-feedback/). 
 
+### How do I learn to say 'NO' to things?
+
+Academics can often be burnt out/overwhelmed. Here is a great [link](https://mtkawakami.com/news/2023/5/16/saying-no-in-academia) on saying no in academia and how to develop a practice of balancing workload.
+
 ### How do I find a mentor?
 
 The Training and Mentoring Committee and GASA organize mentoring pairings between faculty and postdocs, postdocs and graduate students, and graduate students and undergraduates. Pairings usually happen during the fall semester, or shortly before or after arrival in the Department or Institute. You may request a mentor at any time, however! Contact the Training and Mentoring Committee with requests. See details under the relevant faculty/postdoc/graduate student sections below. 
