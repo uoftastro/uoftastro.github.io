@@ -94,7 +94,7 @@ There is a dropbox form where you can submit comments or questions anonymously (
 
 ### How do I learn to say 'NO' to things?
 
-Academics can often be burnt out/overwhelmed. Here is a great [link](https://mtkawakami.com/news/2023/5/16/saying-no-in-academia) on saying no in academia and how to develop a practice of balancing workload.
+Academics can often be burnt out/overwhelmed (here is a good link of some [signs you may be overwhelmed/overworked/burnt out](https://www.webmd.com/balance/ss/slideshow-signs-burnout). This [link](https://mtkawakami.com/news/2023/5/16/saying-no-in-academia) provides some tips on saying no in academia and how to develop a practice of balancing workload.
 
 ### How do I find a mentor?
 
