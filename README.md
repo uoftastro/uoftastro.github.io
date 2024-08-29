@@ -37,6 +37,10 @@ The main directory for the Department is hosted on the departmental [webpage](ht
 
 Sign up through [Alice Chow](mailto:chow@dunlap.utoronto.ca).
 
+### How do I find out about free/leftover food?
+
+Join the #freefoodalerts channel on the Astro slack
+
 #### Some notes on Deactivation of accounts
 **Zoom & Overleaf**
 
